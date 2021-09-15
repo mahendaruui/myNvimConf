@@ -1,18 +1,9 @@
-<h1 align="center">nii-nvim: a no-nonsense neovim configuration</h1>
+<h1 align="center">Mahend-Dev Configuration NeoVIM</h1>
 
 <div align="center">
 
 ![Fetch](https://github.com/Theory-of-Everything/imagehost/blob/main/nii-nvim/scrot_logo.png?raw=true)
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/Theory-of-Everything/nii-nvim/wiki">Wiki</a>
-  <span> • </span>
-  <a href="https://github.com/Theory-of-Everything/nii-nvim/wiki/Installation">Install</a>
-  <span> • </span>
-  <a href="https://github.com/Theory-of-Everything/nii-nvim/blob/master/CONTRIBUTING.md">Contribute</a>
-  <p></p>
 </div>
 
 <div align="center">
@@ -23,17 +14,6 @@
 [![Issues](https://img.shields.io/github/issues/theory-of-everything/nii-nvim?color=red&style=for-the-badge)]()
   
 </div>
-
-# PLEASE DONT SKIP THE README!!!
-
-nii-nvim is a very minimal nvim dotfiles focused on creating a functional editor with a minmal amount of plugins. nii-nvim also has the user in mind by being very extensible and documented.
-#### **NOTE**: nii-nvim is currently under development, meaning that many things may not work as intended, or may not be implemented at all.
-
-## Why nii-nvim?
-Many of the neovim configurations that exist (i.e. NvChad, Spacevim, etc.) are either heavily bloated, difficult to extend, or tailored to a specific task/workflows. nii-nvim aims to solve this by providing the end user with a base configuration that contains everything needed for a very basic editor with all of the base components in place, so that the end user can create there own workflow from that base. nii-nvim contains a bunch of features including lsp integration, snippets (planned), autocomplete, and themes.
-
-The end goal of nii-nvim is to be use as a base config for users to extend and add upon, leading to a more unique editing experience.
-Also the name is cute, and sounds small. 	(・3・)
 
 ## Requirements
 * `neovim 5.0 or greater`
